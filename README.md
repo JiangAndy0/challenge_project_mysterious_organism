@@ -1,0 +1,2 @@
+# challenge_project_mysterious_organism
+Codecademy Challenge Project: Mysterious Organism
